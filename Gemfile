@@ -2,5 +2,5 @@
 
 source "https://rubygems.org"
 
-gem 'nokogiri', '1.8.1'
+gem 'nokogiri', '1.9.1'
 
